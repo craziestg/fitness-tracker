@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1acf0393-5e6d-48c9-a092-ecac435732aa",
+    "name": "test",
+    "primary_muscle_group": "test_chest",
+    "default_weight": null,
+    "notes": null
+  },
+  {
+    "id": "a87dac53-f537-4168-9724-79c653cd181b",
+    "name": "Squat",
+    "primary_muscle_group": "legs",
+    "default_weight": null,
+    "notes": null
+  },
+  {
+    "id": "6fe806cc-b620-4d4b-9b8d-1a48cc657fb9",
+    "name": "Bench",
+    "primary_muscle_group": "Chest",
+    "default_weight": null,
+    "notes": null
+  }
+]

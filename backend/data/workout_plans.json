@@ -1,0 +1,52 @@
+[
+  {
+    "id": "6f43f57f-5378-4e1e-9802-54d367f93bb3",
+    "name": "Test",
+    "activity_type": "lifting",
+    "description": null,
+    "planned_exercises": null,
+    "planned_duration_minutes": null,
+    "planned_distance": null,
+    "distance_unit": null,
+    "created_at": "2026-04-14T18:06:35.790840Z",
+    "updated_at": "2026-04-14T18:06:35.790849Z"
+  },
+  {
+    "id": "dfc0016d-4aaf-41d0-aafd-4923aed53089",
+    "name": "test",
+    "activity_type": "lifting",
+    "description": "test",
+    "planned_exercises": [
+      {
+        "exercise_name": "test",
+        "sets": 3,
+        "reps": 10,
+        "weight": 20.0
+      }
+    ],
+    "planned_duration_minutes": null,
+    "planned_distance": null,
+    "distance_unit": null,
+    "created_at": "2026-04-14T18:14:26.764863Z",
+    "updated_at": "2026-04-14T18:14:26.764879Z"
+  },
+  {
+    "id": "d85b2db3-6ca4-4a06-b569-ee09f55079d5",
+    "name": "gmotest",
+    "activity_type": "lifting",
+    "description": "gmotest",
+    "planned_exercises": [
+      {
+        "exercise_name": "test",
+        "sets": 3,
+        "reps": 10,
+        "weight": null
+      }
+    ],
+    "planned_duration_minutes": null,
+    "planned_distance": null,
+    "distance_unit": null,
+    "created_at": "2026-04-14T18:14:55.870571Z",
+    "updated_at": "2026-04-14T18:14:55.870583Z"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "id": "2eea480c-5131-47f6-88ed-2b1b5a665a10",
+    "activity_type": "lifting",
+    "started_at": "2026-04-08T21:49:07.410708Z",
+    "finished_at": null,
+    "planned_exercises": [
+      {
+        "exercise_name": "Bench Press",
+        "sets": 4,
+        "reps": 8,
+        "weight": 185.0
+      }
+    ],
+    "planned_duration_minutes": null,
+    "planned_distance": null,
+    "distance_unit": null,
+    "notes": "Empty history test",
+    "set_logs": null
+  },
+  {
+    "id": "b67670a3-8eb1-436f-a4fb-fe5af1b6bb26",
+    "activity_type": "lifting",
+    "started_at": "2026-04-10T20:09:16.663191Z",
+    "finished_at": null,
+    "planned_exercises": [
+      {
+        "exercise_name": "Bench Press",
+        "sets": 4,
+        "reps": 8,
+        "weight": 185.0
+      }
+    ],
+    "planned_duration_minutes": null,
+    "planned_distance": null,
+    "distance_unit": null,
+    "notes": "Frontend test",
+    "set_logs": null
+  },
+  {
+    "id": "06eb580f-8fa8-4a40-a9a7-18c8a60fc055",
+    "activity_type": "lifting",
+    "started_at": "2026-04-10T20:14:08.166754Z",
+    "finished_at": null,
+    "planned_exercises": [
+      {
+        "exercise_name": "Squat",
+        "sets": 3,
+        "reps": 8,
+        "weight": 100.0
+      },
+      {
+        "exercise_name": "Bench",
+        "sets": 3,
+        "reps": 8,
+        "weight": 100.0
+      }
+    ],
+    "planned_duration_minutes": null,
+    "planned_distance": null,
+    "distance_unit": null,
+    "notes": "first workout",
+    "set_logs": null
+  },
+  {
+    "id": "04bf2450-5e90-4ef0-b900-61e3586f25ba",
+    "plan_id": "d85b2db3-6ca4-4a06-b569-ee09f55079d5",
+    "activity_type": "lifting",
+    "started_at": "2026-04-14T18:15:05.905908Z",
+    "finished_at": "2026-04-14T18:15:21.998353Z",
+    "planned_exercises": [
+      {
+        "exercise_name": "test",
+        "sets": 3,
+        "reps": 10,
+        "weight": null
+      }
+    ],
+    "planned_duration_minutes": null,
+    "planned_distance": null,
+    "distance_unit": null,
+    "notes": "gmotest",
+    "set_logs": null,
+    "overall_feeling": "good",
+    "favorite_part": "friends along the way",
+    "actual_duration_minutes": null,
+    "actual_distance": null
+  }
+]
