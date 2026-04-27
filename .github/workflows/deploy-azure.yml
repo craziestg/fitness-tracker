@@ -5,8 +5,8 @@ on:
   # To use: GitHub > Actions > Deploy to Azure > Run workflow
   workflow_dispatch:
   # Uncomment below to auto-deploy on push (requires Azure credentials configured)
-  # push:
-  #   branches: [main]
+  push:     
+     branches: [main]
 
 jobs:
   deploy-frontend:
