@@ -19,6 +19,10 @@ app = FastAPI(title="Fitness Tracker API", version="0.1")
 # For Azure: allow the Static Web Apps domain
 allowed_origins = os.getenv("CORS_ORIGINS", "http://localhost:5174,http://localhost:3000").split(",")
 
+# Debug: Log the CORS configuration
+print(f"DEBUG: CORS_ORIGINS env var: {os.getenv('CORS_ORIGINS')}")
+print(f"DEBUG: Allowed origins: {allowed_origins}")
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=allowed_origins,
